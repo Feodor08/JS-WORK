@@ -1,0 +1,38 @@
+#testcontainer
+{
+font-size:1em;
+padding:10px;
+width:370px;
+height:130px;
+border:1px solid grey;
+overflow:hidden;
+}
+#testcontainer h2
+{
+margin-top:0px;
+margin-bottom:13px;
+padding:5px;
+}
+#testcontainer p
+{
+margin-top:0px;
+margin-bottom:0px;
+}
+#scalecont
+{
+font-size:0.8em;
+}
+#transfercont
+{
+display:none;
+font-size:0.8em;
+}
+#sizecont
+{
+display:none;
+font-size:0.8em;
+}
+.transfer-effect
+{
+border:2px solid grey;
+}

@@ -1,0 +1,19 @@
+TABLE {
+    border-collapse: collapse; 
+    width: 300px; 
+   }
+   TH { 
+    background: #fc0; 
+    text-align: left;
+   }
+   TR {
+    background: #fff; 
+    text-align: center; 
+   }
+   TH, TD {
+    border: 1px solid black; 
+    padding: 4px; 
+   }
+  img {
+    width: 200px;
+}
