@@ -1,0 +1,8 @@
+<button onclick="buttonClick()">Нажми на меня</button>
+<span id="elem">Это span с текстом.</span>
+<script type="text/javascript">
+	function buttonClick() {
+	var elem = document.getElementById('elem');
+	elem.outerHTML = '<b>' + elem.innerHTML + '</b>';
+}
+</script> 
